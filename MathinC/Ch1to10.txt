@@ -1,0 +1,12 @@
+//Hands on C programming Chapter 1 - 10 
+//http://users.cs.cf.ac.uk/Dave.Marshall/CM2204/PDF/C.pdf
+Chapter 1
+Function of preprocessor - remove comments & interpret preproceesor directives
+Preporcessor directives - include, define,
+Lint - c program verifier
+
+Chapter 2
+C is lowlevel - bitwise programming is readily available, uses pointers
+//C has no boolean types
+allowsmutlipe assignment statements a=b=c=d=5;
+%c - characters, %d - integers, %f floats
